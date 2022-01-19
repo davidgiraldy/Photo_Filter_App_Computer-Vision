@@ -1,5 +1,5 @@
 ## Photo Filter App using OpenCV
-Photo Filter Application is Simple Application for filtering photo such as :
+Simple Photo Filter Application for filtering photo such as :
 1. Contrast
 2. Brightness
 3. Filter
