@@ -31,4 +31,17 @@ This setting is to turn Photo color into :
 *Color = 1* -> Turn photo into Grayscale\
 *Color = 2* -> Turn photo into Inverted Color
 
+## Example 1
 
+
+![image](https://user-images.githubusercontent.com/92198699/150211227-29e9e08b-bbf8-43b8-a474-940ef47f6499.png)
+
+<img src="https://i.ibb.co/3Mv5dft/temp.jpg" alt="temp" border="0">
+
+## Example 2
+<img src="https://i.ibb.co/1z1D3kY/image.png" alt="image" border="0">
+<a href="https://ibb.co/NW0Rbx7"><img src="https://i.ibb.co/tY0RFB3/image.png" alt="image" border="0"></a>
+
+## Example 3
+<a href="https://ibb.co/QQfVXZN"><img src="https://i.ibb.co/dMrv7S2/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/Y2fxJ01"><img src="https://i.ibb.co/p24SNhM/image.png" alt="image" border="0"></a>
