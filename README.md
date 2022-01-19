@@ -15,7 +15,7 @@ Slide to right side to increase brightness and left side to decrease brightness
 
 
 **Filter**  
-Filter has many effect to apply :\
+Filter has many effect to apply :
 > *Filter = 0* -> Identity Kernel, which mean the original photo\
 > *Filter = 1* -> Smooth, make photo more smooth\
 > *Filter = 2* -> Sharpen, make photo more sharp\
