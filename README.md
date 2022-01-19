@@ -16,7 +16,7 @@ Slide to right side to increase brightness and left side to decrease brightness
 
 **Filter**  
 Filter has many effect to apply :
-> *Filter = 0* -> Identity Kernel, which mean the original photo\
+> *Filter = 0* -> Keep the original photo\
 > *Filter = 1* -> Smooth, make photo more smooth\
 > *Filter = 2* -> Sharpen, make photo more sharp\
 > *Filter = 3* -> Gaussian Kernel with kSize = 3 with Sigma = 0 (Blur)\
@@ -32,8 +32,6 @@ This setting is to turn Photo color into :
 *Color = 2* -> Turn photo into Inverted Color
 
 ## Example 1
-
-
 ![image](https://user-images.githubusercontent.com/92198699/150211227-29e9e08b-bbf8-43b8-a474-940ef47f6499.png)
 
 <img src="https://i.ibb.co/3Mv5dft/temp.jpg" alt="temp" border="0">
